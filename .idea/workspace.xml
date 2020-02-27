@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd259c4c-ba37-4a4d-ae39-96904a85a105" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liping/LeetCode/Solution20200226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="fd259c4c-ba37-4a4d-ae39-96904a85a105" name="Default Changelist" comment="leetcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liping/LeetCode/Solution20200226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liping/LeetCode/Solution20200226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,46 +19,48 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="9" />
-          <entry key="md" value="1" />
+          <entry key="java" value="12" />
+          <entry key="md" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="12" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="17" />
-          <entry key="java" value="492" />
-          <entry key="md" value="130" />
+          <entry key="java" value="2338" />
+          <entry key="md" value="231" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="492" />
-          <entry key="PLAIN_TEXT" value="147" />
+          <entry key="JAVA" value="2338" />
+          <entry key="PLAIN_TEXT" value="263" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liping/LeetCode/Solution20200226.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -66,8 +68,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liping/LeetCode/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/liping/LeetCode/TreeNodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,9 +128,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liping/LeetCode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/liping/LeetCode/TreeNodeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liping/LeetCode/Solution20200226.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -106,7 +144,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="62" />
+    <option name="x" value="43" />
     <option name="y" value="23" />
     <option name="width" value="1398" />
     <option name="height" value="877" />
@@ -120,6 +158,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +196,15 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="liping" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,12 +235,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -219,24 +267,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Solution20200226Test.testCuttingRope">
-    <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.liping" />
-      <option name="MAIN_CLASS_NAME" value="com.liping.AppTest" />
-      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution20200226Test.testCuttingRope" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Solution20200226Test.testIsSubStructure">
+    <configuration name="Solution20200226Test.testIsSubStructure" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -246,7 +278,77 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.liping.LeetCode" />
       <option name="MAIN_CLASS_NAME" value="com.liping.LeetCode.Solution20200226Test" />
-      <option name="METHOD_NAME" value="testCuttingRope" />
+      <option name="METHOD_NAME" value="testIsSubStructure" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution20200226Test.testIsSubStructureHead" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liping.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liping.LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.liping.LeetCode.Solution20200226Test" />
+      <option name="METHOD_NAME" value="testIsSubStructureHead" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeNodeTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liping.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liping.LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.liping.LeetCode.TreeNodeTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeNodeTest.testBuild" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liping.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liping.LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.liping.LeetCode.TreeNodeTest" />
+      <option name="METHOD_NAME" value="testBuild" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeNodeTest.testPreScan" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liping.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liping.LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.liping.LeetCode.TreeNodeTest" />
+      <option name="METHOD_NAME" value="testPreScan" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -255,13 +357,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Solution20200226Test.testCuttingRope" />
-      <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+      <item itemvalue="TestNG.TreeNodeTest.testBuild" />
+      <item itemvalue="TestNG.TreeNodeTest.testPreScan" />
+      <item itemvalue="TestNG.TreeNodeTest" />
+      <item itemvalue="TestNG.Solution20200226Test.testIsSubStructure" />
+      <item itemvalue="TestNG.Solution20200226Test.testIsSubStructureHead" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Solution20200226Test.testCuttingRope" />
-        <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+        <item itemvalue="TestNG.Solution20200226Test.testIsSubStructure" />
+        <item itemvalue="TestNG.Solution20200226Test.testIsSubStructureHead" />
+        <item itemvalue="TestNG.TreeNodeTest" />
+        <item itemvalue="TestNG.TreeNodeTest.testPreScan" />
+        <item itemvalue="TestNG.TreeNodeTest.testBuild" />
       </list>
     </recent_temporary>
   </component>
@@ -276,47 +384,56 @@
       <option name="presentableId" value="Default" />
       <updated>1582638380989</updated>
     </task>
+    <task id="LOCAL-00001" summary="leetcode:剪绳子">
+      <created>1582731480171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582731480171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_shouldAnswerWithTrue - 2020.02.26 at 22h 48m 46s.xml">
-      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    <history-entry file="Solution20200226Test_testIsSubStructureHead - 2020.02.27 at 23h 19m 47s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructureHead" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 22h 48m 54s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 19m 52s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 22h 49m 21s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 19m 56s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 22h 49m 26s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 20m 45s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 22h 51m 25s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 21m 13s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 22h 52m 35s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 21m 18s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 23h 24m 47s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 22m 01s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Solution20200226Test_testCuttingRope - 2020.02.26 at 23h 25m 54s.xml">
-      <configuration name="Solution20200226Test.testCuttingRope" configurationId="TestNG" />
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 22m 42s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 26m 19s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Solution20200226Test_testIsSubStructure - 2020.02.27 at 23h 26m 30s.xml">
+      <configuration name="Solution20200226Test.testIsSubStructure" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1398" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25368732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" weight="0.3299363" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
@@ -324,15 +441,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode:剪绳子" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode:剪绳子" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -354,13 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -399,10 +530,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liping/LeetCode/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/liping/LeetCode/TreeNodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -411,8 +553,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liping/LeetCode/Solution20200226.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/liping/LeetCode/Solution20200226Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>

@@ -15,4 +15,24 @@ public class Solution20200226 {
         }
         return max;
     }
+
+    /**
+     * 面试题26. 树的子结构
+     * https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
+     * */
+    public boolean isSubStructure(TreeNode A, TreeNode B) {
+        if(A == null || B == null) return false;
+        boolean leftOrRight = isSubStructure(A.left, B) || isSubStructure(A.right, B);
+        if(A.val != B.val) return leftOrRight;
+        else{
+            boolean result = isSubStructureHead(A.left, B.left) && isSubStructureHead(A.right, B.right);
+            return result || leftOrRight;
+        }
+    }
+
+    public boolean isSubStructureHead(TreeNode A, TreeNode B){
+        if(B == null) return true;
+        if(A == null) return false;
+        return A.val == B.val && isSubStructureHead(A.left, B.left) && isSubStructureHead(A.right, B.right);
+    }
 }
