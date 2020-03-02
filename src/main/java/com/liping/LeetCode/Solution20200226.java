@@ -1,5 +1,7 @@
 package com.liping.LeetCode;
 
+import com.liping.Util.TreeNode;
+
 public class Solution20200226 {
     /**
      * 面试题14- I. 剪绳子

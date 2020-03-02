@@ -1,5 +1,6 @@
 package com.liping.LeetCode;
 
+import com.liping.Util.TreeNode;
 import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.*;
